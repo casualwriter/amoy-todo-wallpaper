@@ -16,9 +16,9 @@ This program will open `todo.txt` file for edit, click [Save & Apply] to set it 
 
 ## Files
 
-1. source code `amoy-todo.py`
-2. background image `amoy-todo.py`
-3. download zip `amoy-todo-wallpaper.zip`
+1. source code [amoy-todo.py]()
+2. background image [amoy-todo.py]()
+3. download zip [amoy-todo-wallpaper.zip]()
 
 ## Prompt
 

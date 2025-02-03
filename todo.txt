@@ -1,0 +1,12 @@
+Projects:
+- Amoy Studio (b2c)
+- Amoy Studio (b2b)
+- Amoy AI Campus
+
+To-Do
+* 3/2 o3-mini, deepseek-R1
+* 4/2 learn openai-research
+* 5/2 12am lunch meeting
+* 6/2 3pm meeting
+* 7/2 5pm team meeting
+
